@@ -1,0 +1,14 @@
+[
+  {
+    "package": "BayesianDisaggregation",
+    "url": "https://github.com/IsadoreNabi/BayesianDisaggregation"
+  },
+  {
+    "package": "topologyR", 
+    "url": "https://github.com/IsadoreNabi/topologyR"
+  },
+  {
+    "package": "EconCausal",
+    "url": "https://github.com/IsadoreNabi/EconCausal"
+  }
+]
