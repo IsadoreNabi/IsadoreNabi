@@ -29,14 +29,14 @@ All twelve are single-authored and single-maintained.
 |---|---|---|
 | [gdpar](https://cran.r-project.org/package=gdpar) | 0.1.0 | Generalized distributional parameter regression: hierarchical additive models with per-parameter predictors, fitted with Stan |
 | [bivarhr](https://cran.r-project.org/package=bivarhr) | 0.1.6 | Bivariate hurdle negative-binomial models with dynamic Bayesian networks and hidden Markov regimes |
-| [EmpiricalDynamics](https://cran.r-project.org/package=EmpiricalDynamics) | 0.1.5 | Empirical dynamic modelling: state-space reconstruction and convergent cross mapping for nonlinear time series |
+| [EmpiricalDynamics](https://cran.r-project.org/package=EmpiricalDynamics) | 0.1.9 | Empirical dynamic modelling: state-space reconstruction and convergent cross mapping for nonlinear time series |
 | [bayesianOU](https://cran.r-project.org/package=bayesianOU) | 0.2.0 | Hierarchical Bayesian Ornstein-Uhlenbeck models for mean-reverting processes |
 | [BayesianDisaggregation](https://cran.r-project.org/package=BayesianDisaggregation) | 0.2.1 | Bayesian economic data disaggregation with multiple posterior estimation methods |
 | [convergenceDFM](https://cran.r-project.org/package=convergenceDFM) | 0.3.2 | Dynamic factor models for convergence analysis |
 | [HTDV](https://cran.r-project.org/package=HTDV) | 0.2.0 | Hypothesis testing for imbalanced and heteroscedastic designs |
 | [RegimeChange](https://cran.r-project.org/package=RegimeChange) | 0.1.1 | Regime-change detection in time series, benchmarked against changepoint, ruptures and Kats |
 | [SignalY](https://cran.r-project.org/package=SignalY) | 1.1.1 | Signal extraction and decomposition for noisy economic and environmental series |
-| [topologyR](https://cran.r-project.org/package=topologyR) | 0.2.0 | Topological data analysis: persistent homology and simplicial complexes in R |
+| [topologyR](https://cran.r-project.org/package=topologyR) | 0.3.0 | Topological data analysis: persistent homology and simplicial complexes in R |
 | [valueprhr](https://cran.r-project.org/package=valueprhr) | 0.1.0 | Empirical construction of labour values and production prices without simultaneist assumptions |
 | [EconCausal](https://cran.r-project.org/package=EconCausal) | 1.0.2 | Causal direction between pairs of economic variables: ECM with MARS nonlinearity, BSTS and Bayesian GLM with AR(1) |
 
