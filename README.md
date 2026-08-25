@@ -59,7 +59,7 @@ bound: the Posit mirror is one of several.
 
 ## Selected publications
 
-**Preprints (arXiv)**
+**Preprints and working papers**
 
 - *Quantitative Theory of Money or Prices? A Historical, Theoretical, and
   Econometric Analysis*, 2025.
@@ -67,9 +67,23 @@ bound: the Posit mirror is one of several.
 - *Sectorial Exclusion Criteria in the Marxist Analysis of the Average Rate of
   Profit: The United States Case (1960-2020)*, 2025.
   [arXiv:2501.06270](https://doi.org/10.48550/arXiv.2501.06270)
+- *The Ancient Judeans of Judea as Direct Ancestors of Contemporary
+  Palestinians: Archaeological, Paleogenomic, Historiographical, and Linguistic
+  Evidence against the Exile Narrative and the "Return"*, SSRN, 2026.
+  [10.2139/ssrn.6588078](https://doi.org/10.2139/ssrn.6588078)
+- *Algunas reflexiones sobre los precios de producción de Marx: historicidad de
+  la ley del valor, fundamento dialéctico-materialista y formalización dinámica
+  bajo incertidumbre*, 2026.
+  [10.5281/zenodo.21842103](https://doi.org/10.5281/zenodo.21842103)
+- *Bitopological Spaces from Directed Graphs: Extending the Nada Construction to
+  Capture Temporal Irreversibility* — reproducibility and formalization bundle,
+  2026. [10.5281/zenodo.19652888](https://doi.org/10.5281/zenodo.19652888)
 
 **Peer-reviewed**
 
+- *Production versus circulation: An empirical investigation of causal
+  relationships in the U.S. economy*, Capital & Class, 2026.
+  [10.1177/03098168261468189](https://doi.org/10.1177/03098168261468189)
 - *Más allá de la curva de Phillips: inflación, cambio tecnológico y
   acumulación de plusvalía en las economías capitalistas contemporáneas*,
   Realidad Económica, 2025.
@@ -81,5 +95,12 @@ bound: the Posit mirror is one of several.
 - *Sobre la dialéctica inmanente en la metamorfosis mercantil*, Revista de
   Filosofía de la Universidad de Costa Rica, 2017.
 
-Full record on [ORCID](https://orcid.org/0009-0000-2412-3150): 35 works —
-12 software, 9 preprints, 7 journal articles, 3 datasets.
+**Thesis**
+
+- *General Theory of the Cycles of the Dynamics of the Capitalist System in the
+  Long Run*, 2026.
+  [10.5281/zenodo.22100681](https://doi.org/10.5281/zenodo.22100681)
+
+Full record on [ORCID](https://orcid.org/0009-0000-2412-3150): 40 works —
+12 software, 11 preprints, 9 journal articles, 3 datasets, 2 theses,
+2 online resources, 1 book.
