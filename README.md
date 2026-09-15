@@ -2,7 +2,7 @@
 
 # José Mauricio Gómez Julián
 
-Economist and data scientist. I work on Bayesian statistics, time series and
+Marxist Philosopher of Science, Political Economist and Data Scientist. I work on Bayesian statistics, time series and
 econometrics, and on the philosophy of science and political economy that
 frame them. Author and sole maintainer of **12 R packages on CRAN**.
 
@@ -10,22 +10,22 @@ frame them. Author and sole maintainer of **12 R packages on CRAN**.
 [marxistphilosophyofscience.com](https://www.marxistphilosophyofscience.com) ·
 isadore.nabi@pm.me
 
-## Research lines
+## Research Lines
 
-- **Bayesian hierarchical modelling** — structure learning and variable
-  selection in graphical models; geometry-adaptive sampling.
-- **Time series and regime change** — state-space reconstruction, changepoint
-  detection, dynamic factor models.
-- **Econometrics of value and prices** — empirical construction of labour
-  values and production prices without simultaneist assumptions.
-- **Philosophy of science** — probability, dialectics and the foundations of
+- **Philosophy of Science** — probability, dialectics and the foundations of
   statistical inference.
+- **Bayesian Hierarchical Modelling** — structure learning and variable
+  selection in graphical models; geometry-adaptive sampling.
+- **Time Series and Regime Change** — state-space reconstruction, changepoint
+  detection, dynamic factor models.
+- **Econometrics of Value and Prices** — empirical construction of labour
+  values and production prices without simultaneist assumptions.
 
-## R packages on CRAN
+## R Packages On CRAN
 
 All twelve are single-authored and single-maintained.
 
-| Package | Version | What it does |
+| Package | Version | What It Does |
 |---|---|---|
 | [gdpar](https://cran.r-project.org/package=gdpar) | 0.1.0 | Generalized distributional parameter regression: hierarchical additive models with per-parameter predictors, fitted with Stan |
 | [bivarhr](https://cran.r-project.org/package=bivarhr) | 0.1.6 | Bivariate hurdle negative-binomial models with dynamic Bayesian networks and hidden Markov regimes |
@@ -57,9 +57,9 @@ Development versions are also served from
 below 170 (source: `cranlogs`, Posit mirror, July 2026). This is a lower
 bound: the Posit mirror is one of several.
 
-## Selected publications
+## Selected Publications
 
-**Preprints and working papers**
+**Preprints and Working Papers**
 
 - *Quantitative Theory of Money or Prices? A Historical, Theoretical, and
   Econometric Analysis*, 2025.
@@ -79,7 +79,7 @@ bound: the Posit mirror is one of several.
   Capture Temporal Irreversibility* — reproducibility and formalization bundle,
   2026. [10.5281/zenodo.19652888](https://doi.org/10.5281/zenodo.19652888)
 
-**Peer-reviewed**
+**Peer-Reviewed**
 
 - *Production versus circulation: An empirical investigation of causal
   relationships in the U.S. economy*, Capital & Class, 2026.
