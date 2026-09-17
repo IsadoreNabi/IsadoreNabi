@@ -4,7 +4,7 @@
 
 Marxist Philosopher of Science, Political Economist and Data Scientist. I work on Bayesian statistics, time series and
 econometrics, and on the philosophy of science and political economy that
-frame them. Author and sole maintainer of **12 R packages on CRAN**.
+frame them. Author and sole maintainer of **13 R packages on CRAN**.
 
 [ORCID 0009-0000-2412-3150](https://orcid.org/0009-0000-2412-3150) ·
 [marxistphilosophyofscience.com](https://www.marxistphilosophyofscience.com) ·
@@ -23,7 +23,7 @@ isadore.nabi@pm.me
 
 ## R Packages On CRAN
 
-All twelve are single-authored and single-maintained.
+All thirteen are single-authored and single-maintained.
 
 | Package | Version | What It Does |
 |---|---|---|
@@ -39,6 +39,7 @@ All twelve are single-authored and single-maintained.
 | [topologyR](https://cran.r-project.org/package=topologyR) | 0.3.0 | Topological data analysis: persistent homology and simplicial complexes in R |
 | [valueprhr](https://cran.r-project.org/package=valueprhr) | 0.1.0 | Empirical construction of labour values and production prices without simultaneist assumptions |
 | [EconCausal](https://cran.r-project.org/package=EconCausal) | 1.0.2 | Causal direction between pairs of economic variables: ECM with MARS nonlinearity, BSTS and Bayesian GLM with AR(1) |
+| [RobustArithmetic](https://cran.r-project.org/package=RobustArithmetic) | 0.2.0 | Verified interval arithmetic with outward-rounded enclosures, correctly rounded elementary kernels and the interval Newton operator for root-finding |
 
 Each package has a permanent identifier of the form
 `10.32614/CRAN.package.<name>` and full technical documentation deposited on
@@ -47,15 +48,16 @@ Zenodo.
 **Installation**
 
 ```r
-install.packages("gdpar")   # any of the twelve, from CRAN
+install.packages("gdpar")   # any of the thirteen, from CRAN
 ```
 
 Development versions are also served from
 [r-universe](https://isadorenabi.r-universe.dev).
 
-**Usage.** 3 294 downloads in the last month across the twelve packages, none
-below 170 (source: `cranlogs`, Posit mirror, July 2026). This is a lower
-bound: the Posit mirror is one of several.
+**Usage.** 3 559 downloads in the last month across the thirteen packages,
+none below 54 (source: `cranlogs`, Posit mirror, 2026-08-17 to 2026-09-15).
+This is a lower bound: the Posit mirror is one of several, and
+RobustArithmetic's count reflects a partial month since its CRAN release.
 
 ## Selected Publications
 
@@ -101,6 +103,6 @@ bound: the Posit mirror is one of several.
   Long Run*, 2026.
   [10.5281/zenodo.22100681](https://doi.org/10.5281/zenodo.22100681)
 
-Full record on [ORCID](https://orcid.org/0009-0000-2412-3150): 40 works —
-12 software, 11 preprints, 9 journal articles, 3 datasets, 2 theses,
+Full record on [ORCID](https://orcid.org/0009-0000-2412-3150): 41 works —
+13 software, 11 preprints, 9 journal articles, 3 datasets, 2 theses,
 2 online resources, 1 book.
